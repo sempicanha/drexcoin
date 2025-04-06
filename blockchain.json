@@ -1,0 +1,50 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "01/01/2009",
+      "transactions": [],
+      "previousHash": "0",
+      "hash": "4fca9782a1d164d19f8548e62c84160c91582f30bc81844572d6894b24e62524",
+      "nonce": 0,
+      "difficulty": 4
+    },
+    {
+      "index": 1,
+      "timestamp": 1741934193192,
+      "transactions": [
+        {
+          "from": "COINBASE",
+          "to": "4FuvGvnrJvgZDVQAJaduKoDhQtxd",
+          "amount": 50,
+          "timestamp": 1741934193192,
+          "signature": null,
+          "hash": "f8c3eeaacc03146f69403b68fe5913bf9fd14601f05d6ecdc93f83e30b38e52c"
+        }
+      ],
+      "previousHash": "4fca9782a1d164d19f8548e62c84160c91582f30bc81844572d6894b24e62524",
+      "hash": "0000070cdeb254a3cbea955da935296df43d9968fa68422798572031e8691585",
+      "nonce": 10953,
+      "difficulty": 4
+    },
+    {
+      "index": 2,
+      "timestamp": 1741934229668,
+      "transactions": [
+        {
+          "from": "COINBASE",
+          "to": "4FuvGvnrJvgZDVQAJaduKoDhQtxd",
+          "amount": 50,
+          "timestamp": 1741934229668,
+          "signature": null,
+          "hash": "8c3dec01272b38d507cfabec121fe960994a9945a425a3f53d111d90f4979eb4"
+        }
+      ],
+      "previousHash": "0000070cdeb254a3cbea955da935296df43d9968fa68422798572031e8691585",
+      "hash": "0000e62e57096cd0a7a17ed49d526b23062352f22d35c692241741cf9f59c56a",
+      "nonce": 8063,
+      "difficulty": 4
+    }
+  ],
+  "pendingTransactions": []
+}
